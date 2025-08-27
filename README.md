@@ -21,12 +21,18 @@ Exemplo de execução no terminal:
 Qual é o seu nome? Patrick
 
 Olá, Patrick! Vamos começar o quiz educacional 
+
 	1.	Qual é a capital da Bahia?
-a) Juazeiro
-b) Salvador
-c) Jequié
-Sua resposta: b
-✅ Correto! Salvador é a capital da Bahia.
+
+ a) Juazeiro
+
+ b) Salvador
+
+ c) Jequié
+
+ Sua resposta: b
+
+ Correto! Salvador é a capital da Bahia.
 
 
 
