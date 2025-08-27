@@ -50,14 +50,14 @@ else:
 print("-" * 40)
 
 # Resultado final
-print(f"\n🎉 {nome}, você terminou o quiz!")
+print(f"\n {nome}, você terminou o quiz!")
 print(f"Pontuação final: {pontos} de 3 pontos possíveis.\n")
 
 if pontos == 3:
-    print("🌟 Excelente! Você acertou todas!")
+    print(" Excelente! Você acertou todas!")
 elif pontos == 2:
-    print("👏 Muito bom! Só errou uma.")
+    print(" Muito bom! Só errou uma.")
 elif pontos == 1:
-    print("🙂 Você acertou uma, continue praticando!")
+    print(" Você acertou uma, continue praticando!")
 else:
-    print("😅 Não acertou nenhuma, mas não desanime. Bora treinar!")
+    print(" Não acertou nenhuma, mas não desanime. Bora treinar!")
