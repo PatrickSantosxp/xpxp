@@ -1,7 +1,7 @@
 #  Quiz do Patrick
 
 Um pequeno jogo de perguntas e respostas (quiz) desenvolvido em **Python**.  
-O objetivo é testar conhecimentos gerais basicos e te mostrar sua pontuação no final.
+O objetivo é testar conhecimentos gerais básicos e te mostrar sua pontuação no final.
 
 ---
 
@@ -33,7 +33,7 @@ Exemplo de execução no terminal:
 
 ## Testes
 
-Este projeto é simples e não possui testes automatizados, mas você pode rodar várias vezes para validar as respostas.
+Este projeto é simples e não possui testes automatizados, mas você pode rodar várias vezes pra testar diferentes respostas.
 
 ⸻
 
@@ -59,9 +59,10 @@ Este projeto é simples e não possui testes automatizados, mas você pode rodar
 	
  5.	Abra um Pull Request
 
-## 📫 Contato
+##  Contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40patrick_ig-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ig.patrick7?igsh=MTF0d2I4NHU5Yjk1Yg%3D%3D&utm_source=qr)
 [![E-mail](https://img.shields.io/badge/Email-patriksantospp@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:patriksantospp@gmail.com)
 [![Projeto](https://img.shields.io/badge/GitHub-Quiz_Project-black?style=for-the-badge&logo=github)](https://github.com/PatrickSantosxp)
+
 
