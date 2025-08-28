@@ -2,7 +2,7 @@ print("=== Bem-vindo ao Quiz do Aluno Patrick! ===\n")
 nome = input("Qual é o seu nome? ")
 print(f"\nOlá, {nome}! Vamos começar o quiz educacional 🎓\n")
 
-pontos = 0
+pontos = 00
 
 # Pergunta 1
 print("1) Qual é a capital do Brasil?")
